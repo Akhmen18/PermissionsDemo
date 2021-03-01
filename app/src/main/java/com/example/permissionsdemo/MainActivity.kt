@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
     companion object{
         // This is my Personal variable to allow camera and Location permission access
         private const val CAMERA_PERMISSION_CODE =1
